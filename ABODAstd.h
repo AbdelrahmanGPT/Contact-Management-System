@@ -1798,6 +1798,7 @@ namespace std
 		ClearScreen();
 		ChangeCLIColors(BackgroundColor, ForegroundColor);
 		SectionBanner(Message , NumberOfTabs , LineStyle , LineLength);
+		GoToPauseMessage("\n\nPRESS ANY KEY TO EXIT :-) ...\n");
 		exit(0);
 	}
 

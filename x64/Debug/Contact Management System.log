@@ -65,40 +65,40 @@ D:\source\repos\Contact Management System\ABODAstd.h(1573,14): warning C4267: 'i
 D:\source\repos\Contact Management System\ABODAstd.h(1611,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(1877,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(1878,12): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(1889,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(1890,17): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(1960,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+D:\source\repos\Contact Management System\ABODAstd.h(1961,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
   (compiling source file 'Contact%20Management%20System.cpp')
-  D:\source\repos\Contact Management System\ABODAstd.h(1960,10):
+  D:\source\repos\Contact Management System\ABODAstd.h(1961,10):
   consider using '%lld' in the format string
-  D:\source\repos\Contact Management System\ABODAstd.h(1960,10):
+  D:\source\repos\Contact Management System\ABODAstd.h(1961,10):
   consider using '%Id' in the format string
-  D:\source\repos\Contact Management System\ABODAstd.h(1960,10):
+  D:\source\repos\Contact Management System\ABODAstd.h(1961,10):
   consider using '%I64d' in the format string
   
-D:\source\repos\Contact Management System\ABODAstd.h(2042,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(2043,16): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(2149,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+D:\source\repos\Contact Management System\ABODAstd.h(2150,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
   (compiling source file 'Contact%20Management%20System.cpp')
-  D:\source\repos\Contact Management System\ABODAstd.h(2149,11):
+  D:\source\repos\Contact Management System\ABODAstd.h(2150,11):
   consider using '%lld' in the format string
-  D:\source\repos\Contact Management System\ABODAstd.h(2149,11):
+  D:\source\repos\Contact Management System\ABODAstd.h(2150,11):
   consider using '%Id' in the format string
-  D:\source\repos\Contact Management System\ABODAstd.h(2149,11):
+  D:\source\repos\Contact Management System\ABODAstd.h(2150,11):
   consider using '%I64d' in the format string
   
-D:\source\repos\Contact Management System\ABODAstd.h(2165,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(2166,33): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(2166,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(2167,38): warning C4244: '=': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
-D:\source\repos\Contact Management System\ABODAstd.h(2513,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
+D:\source\repos\Contact Management System\ABODAstd.h(2514,44): warning C4244: 'return': conversion from '__int64' to 'short', possible loss of data
   (compiling source file 'Contact%20Management%20System.cpp')
   
   Contact Management System.vcxproj -> D:\source\repos\Contact Management System\x64\Debug\Contact Management System.exe
